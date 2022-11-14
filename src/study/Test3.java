@@ -23,8 +23,12 @@ public class Test3 {
 
     }
 
-    public static void sayHello(){
+    public static void sayHello() {
         System.out.println("hello world!!");
+    }
+
+    public static void sayWorld() {
+        System.out.println("你好呀，最近过的怎么样呀！！");
     }
 }
 
