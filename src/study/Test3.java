@@ -19,6 +19,12 @@ public class Test3 {
         BigDecimal a2 = new BigDecimal(string.substring(string.length() - 3, string.length() - 2));
         BigDecimal a1 = new BigDecimal(string.substring(string.length() - 4, string.length() - 3));
 
+//        这是在hot-fix分支上做改变
+
+    }
+
+    public static void sayHello(){
+        System.out.println("hello world!!");
     }
 }
 
