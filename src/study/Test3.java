@@ -1,6 +1,5 @@
 package study;
 
-
 import java.math.BigDecimal;
 import java.math.BigInteger;
 import java.util.ArrayList;
@@ -31,4 +30,3 @@ public class Test3 {
         System.out.println("你好呀，最近过的怎么样呀！！");
     }
 }
-
